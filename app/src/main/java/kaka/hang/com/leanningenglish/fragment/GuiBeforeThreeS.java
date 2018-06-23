@@ -1,4 +1,4 @@
-package kaka.hang.com.leanningenglish;
+package kaka.hang.com.leanningenglish.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import kaka.hang.com.leanningenglish.R;
 import kaka.hang.com.leanningenglish.base.BaseFragment;
 
 /**
